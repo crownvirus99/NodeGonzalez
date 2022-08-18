@@ -1,3 +1,2 @@
-# hello-react-example-mv6pfq
+# Node Gonzalez
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/hello-react-example-mv6pfq)
